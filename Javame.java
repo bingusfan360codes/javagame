@@ -27,7 +27,7 @@ public class Javame extends JPanel implements ActionListener {
         
         // Draw game elements here
         g.setColor(Color.WHITE);
-        g.drawString("Welcome to Javame!", 350, 300);
+        g.drawString("Lorem Ipsum", 350, 300);
     }
     
     @Override
