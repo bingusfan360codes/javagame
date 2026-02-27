@@ -4,8 +4,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class Javame extends JPanel implements ActionListener {
-    private final int WIDTH = 800;
-    private final int HEIGHT = 600;
+    private final int WIDTH = 1280;
+    private final int HEIGHT = 720;
     private Timer timer;
     
     public Javame() {
